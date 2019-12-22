@@ -1,20 +1,20 @@
 # Instagram-clone
 
 #### By Ahmad Ashraf
-Instagram-clone, as the name dictates is a clone of the popular social media platform, instagram built in django framework
+Instagram-IP, as the name dictates is a clone of the popular social media platform, instagram built in django framework
 
 ## Setup/Installation
 * Clone this repository and navigate into that directory.
 * Install all dependencies in requirements.txt
 
     ```bash
-        pipenv install
+        pip env install
     ```
 * To start the local server in terminal type
      ```bash
         python manage.py runserver
     ```
-* You can view the live version of the app in [Live page]("")
+* You can view the live version of the app in [Live page]("https://instagramip.herokuapp.com")
 
 
 
@@ -29,4 +29,4 @@ Instagram-clone, as the name dictates is a clone of the popular social media pla
 ## Known Bugs
   NO KNOWN BUG
 ## Further help
-Contact me at  ``
+Contact me at  `ahmadashraf159@gmail.com`
