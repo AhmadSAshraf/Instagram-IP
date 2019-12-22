@@ -1,7 +1,7 @@
 # Instagram-IP
 
 #### By Ahmad Ashraf
-Instagram-IP, as the name dictates is a clone of the popular social media platform, instagram built in django framework
+Instagram-IP, as the name dictates is a clone of the popular social media platform, instagram, built in django framework
 
 ## Setup/Installation
 * Clone this repository and navigate into that directory.
